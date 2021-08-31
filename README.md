@@ -1,2 +1,2 @@
 # Simple-Face-Detector
-Simple Face Detector using OpenCv
+Simple Face, Eye and Smile Detector using OpenCv
